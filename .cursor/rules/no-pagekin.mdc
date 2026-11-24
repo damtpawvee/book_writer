@@ -1,0 +1,13 @@
+---
+description: 本仓库禁止使用书童插件和本地书童
+alwaysApply: true
+---
+
+# 不要使用书童
+
+本仓库在 GitHub 上，用 Cursor 云端代理继续。云端没有书童，也不要去连。
+
+- 不要调用 pagekin、pagekin-local，不要提 3067 端口，不要跑 `pk.mjs`，不要读 `C:\PagekinData`。
+- 不要建议用户刷新书童 MCP，不要把正文存进书童。
+- 规划、逐章表、交接、报告都只写本仓库里的 Markdown。
+- 本机书房里已有的正文留在本机。这个库不搬那些章节，也不回头改它们。

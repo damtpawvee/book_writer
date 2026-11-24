@@ -1,0 +1,11 @@
+---
+description: 十个代理各写各的卷，不改别人的文件
+alwaysApply: true
+---
+
+# 文件归属
+
+- 父代理只写 `plan/wave1-report.md`，以及用户后来点名要改的文件。
+- 第 N 号代理只写 `volumes/` 下自己那一卷。07 号写 `volumes/07/`，以此类推，16 号写 `volumes/16/`。
+- 谁都不改 `canon/`、`plan/STATUS.md`、`plan/WAVE.md`、`AGENTS.md`、别人的卷。
+- 接缝以各卷 `TASK.md` 里写死的进出状态为准。不要等邻卷的稿，也不要另起一个县、一条街、一件信物。
